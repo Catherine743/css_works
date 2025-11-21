@@ -1,0 +1,18 @@
+.grid-container{
+    width: 75%;
+    height: 400px;
+    background-color: yellowgreen;
+    border: 1px solid black;   
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 5px;
+    padding: 20px;
+}
+.grid-item{
+    /* background-color: violet; */
+    border: 1px solid white;
+    /* https://grabient.com/IwOgDA7AzANCBswCccCsEBMMC0YTDDDg3hVxA1SPNWFnIBYxgc94IXx3XwAOI-ASA?style=linearGradient&steps=3&angle=45 */
+
+background: linear-gradient(45deg, rgba(250, 218, 97, 1.000) 0.000%, rgba(255, 145, 136, 1.000) 50.000%, rgba(255, 90, 205, 1.000) 100.000%);
+}               

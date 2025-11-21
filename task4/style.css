@@ -1,0 +1,28 @@
+.container{
+    background-color: brown;
+    border: 2px greenyellow solid;
+    border-radius: 10px;
+    height: 350px;
+}
+.child{
+    color: greenyellow;
+    border: 2px greenyellow solid;
+    border-radius: 10px;
+}
+.one{
+    background-color: green;
+    text-align: right;
+    width: 95%;
+}
+.two{
+    background-color: darkcyan;
+    text-align: center;
+    width: 75%;
+}
+.three{
+    background-color: crimson;
+    width: 50%;
+}
+.container-copy{
+    background-color: darkmagenta;
+}

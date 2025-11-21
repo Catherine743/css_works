@@ -1,0 +1,25 @@
+.container{
+    width: 50%;
+    min-height: 400px;
+    background-color: darkmagenta;
+    border: 2px solid red;
+}
+
+.vp-box{
+    height: 100px;
+    width: 50vw;
+    background-color: blueviolet;
+    border: 1px solid yellow;
+}
+.px-box{
+    height: 100px;
+    width: 400px;
+    background-color: lightblue;
+    border: 1px solid green;
+}
+.pc-box{
+    height: 100px;
+    width: 50%;
+    background-color: fuchsia;
+    border: 1px solid blue;
+}

@@ -1,0 +1,21 @@
+.box{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+    color: yellowgreen; 
+    border: 2px solid yellowgreen;
+    margin-top: 20px;
+}
+.green-box{
+    background-color: green;   
+}
+.red-box{
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+}
+.yellow-box{
+    background-color: yellow;
+    margin-left: auto;
+}

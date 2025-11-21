@@ -1,0 +1,60 @@
+.profile-img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 3px 0px 0px 3px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.insta-page{
+    border: 3px solid black;
+    width: 30%;
+    border-radius: 20px;
+    padding: 20px;
+}
+ul{
+    margin: 0;
+}
+.name{
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+.insta-img{
+    width: 100%;
+    margin-top: 25px;
+}
+.icons{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.lady-img{
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+}
+.liked-persons
+{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+.text{
+    margin: 0;
+}
+.bg-border{
+    border: 1px solid orangered;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    margin-right: 20px;
+}

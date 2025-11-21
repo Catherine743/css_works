@@ -1,0 +1,17 @@
+body{
+    color: black;
+}
+h3{
+    display: none;
+}
+@media (max-width:500px) {
+    h1{
+        display: none;
+    }
+    h3{
+        display: block;
+    }
+    body{
+    background-color: yellow;
+    }
+}

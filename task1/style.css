@@ -1,0 +1,17 @@
+.left-text{
+    color: purple;
+    text-align: left;
+}
+
+.center-text{
+    color:blue;
+    text-align: center;
+}
+
+.right-text{
+    color: green;
+    text-align: right;
+}
+.text-decoration-underline{
+    text-decoration:underline;
+}

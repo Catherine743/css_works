@@ -1,0 +1,28 @@
+.id-card{
+    display: flex;
+}
+.id-image{
+    width: 30%;
+    height: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.id-heading{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    height: 50px;
+    margin-top: 0px;
+    background-color: darkmagenta;
+}
+.id-details{
+    width: 60%;
+    color: darkmagenta;
+}
+body{
+    border: 5px solid darkmagenta;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}

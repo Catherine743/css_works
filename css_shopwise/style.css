@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav>div>a{
+    color: white;
+    text-decoration: none;
+}
+.container{
+    width: 100%;
+    background-color: #80001C;
+}
+i{
+    color: white;
+}
